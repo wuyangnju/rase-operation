@@ -1,5 +1,7 @@
 logs
 m2
+old
+var
 *.swp
 nohup.out
 nohup.out.bak
